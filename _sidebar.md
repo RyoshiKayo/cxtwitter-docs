@@ -1,0 +1,2 @@
+- [About](/)
+- [How it works](how-it-works.md)
