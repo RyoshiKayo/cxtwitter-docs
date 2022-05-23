@@ -1,2 +1,3 @@
-- [About](/)
+- [Home](/)
 - [How it works](how-it-works.md)
+- [Legal](legal.md)

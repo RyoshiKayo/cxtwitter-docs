@@ -1,4 +1,4 @@
-# cxtwitter
+# cxtwitter <small>v0.0</small>
 
 ## Get started
 
@@ -14,4 +14,4 @@
 
 - Built using AWS
 
-[Learn more](#About)
+[Learn more](#about)
